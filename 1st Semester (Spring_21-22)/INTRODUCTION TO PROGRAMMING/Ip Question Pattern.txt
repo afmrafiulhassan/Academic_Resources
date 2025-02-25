@@ -1,0 +1,8 @@
+Question About Ip ( Part 5 )
+
+1. Short Question
+2. Output tracing ( str,strn,strchr,strcom/loop/x++/--x )
+3. Error tracing
+4. Flowchart
+5. Write Code ( for loop/if else/condition/type casting/while )
+example: (age bahir kora using int array/find a sum from array and find out average)
