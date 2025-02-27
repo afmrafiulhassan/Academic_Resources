@@ -1,0 +1,41 @@
+#include <iostream>
+using namespace std;
+
+class A {
+    public:
+	A()
+	{
+		cout<<"A class Constructor.";
+	}
+      void display() {
+          cout<<"Base class content.";
+      }
+};
+
+class B : public A 
+{
+	public:
+	B()
+	{
+		cout<<"B class Constructor.";
+	}
+		
+
+};
+
+class C : public B 
+{
+
+public:
+	C()
+	{
+		cout<<"C class Constructor.";
+	}
+
+};
+
+int main() {
+    C obj;
+    obj.display();
+    return 0;
+}
