@@ -1,0 +1,6 @@
+D:\6th Semester\OOP-2 (C#)\Lab Codes\Project\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+D:\6th Semester\OOP-2 (C#)\Lab Codes\Project\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\6th Semester\OOP-2 (C#)\Lab Codes\Project\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Semester\OOP-2 (C#)\Lab Codes\Project\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\6th Semester\OOP-2 (C#)\Lab Codes\Project\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\6th Semester\OOP-2 (C#)\Lab Codes\Project\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
