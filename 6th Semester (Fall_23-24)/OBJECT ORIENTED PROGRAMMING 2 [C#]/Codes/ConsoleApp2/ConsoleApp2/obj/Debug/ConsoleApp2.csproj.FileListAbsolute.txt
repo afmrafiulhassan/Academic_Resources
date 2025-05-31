@@ -1,0 +1,2 @@
+D:\6th Semester\OOP-2 (C#)\Lab Codes\Project\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\6th Semester\OOP-2 (C#)\Lab Codes\Project\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
