@@ -1,0 +1,82 @@
+#1
+x=int(input("Enter an integer value: "))
+y=int(input("Enter an integer value: "))
+z= x*y
+print(x,y,z)
+
+
+
+
+#2
+import sys
+print("Python Version: ", sys.version)
+
+
+
+#3
+help('modules')
+
+
+
+
+#4
+print("Rafiul", end="")
+print("Hassan")
+
+
+
+
+#5
+x = int(input("Enter an integer: "))
+
+if x % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+    
+
+
+
+#6
+x = 10
+y = 5
+x, y = y, x 
+
+print("After swapping:")
+print("x =", x)
+print("y =", y)
+
+
+
+#7
+x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+for number in x:
+    if number % 2 == 0:
+        print(number, end=" ")
+        
+        
+
+#8
+char = input("Enter a character: ")
+
+if char.lower() in "a,e,i,o,u":
+  print("vowel")
+else:
+  print("not vowel")
+  
+  
+  
+#9
+filename = input("Enter the filename: ")
+extension = filename.split('.')[-1]
+print("The extension of the file is:", extension)
+  
+
+  
+#10
+string = input("Enter a string: ")
+char = input("Enter the character to count: ")
+
+count = string.count(char)
+print("The character '", char, "' founds", count, "times in the string.")
