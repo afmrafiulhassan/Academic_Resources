@@ -1,0 +1,29 @@
+
+
+____________________Operating System (Windows_Terminal)________________________
+
+Exercise_1:
+
+1. Create a directory called MyFolder
+2. Navigate into the MyFolder directory
+3. Create a file called filel.txt inside MyFolder
+4. Write "Hello, World!" to filel.txt
+5. Display the contents of filel.txt
+6. Create another file called file2.txt inside MyFolder
+7. Write multiple lines of text to file2.txt
+8. Display the contents of file2.txt
+9. Create a directory called SubFolder inside MyFolder 
+10. Write "Hello, World!" to filel.txt in SubFolder
+11. Display the contents of filel.txt from inside SubFolder
+12. Delete file2.txt from MyFolder
+13. Write "Sample Text" to all three files: a.txt, b.txt, and c.txt
+14. Delete all .txt files from MyFolder
+15. Delete the SubFolder (including its contents)
+16. Display current date
+17. Display current time
+18. Display system IP address
+19. Make a copy of a file (a.txt)
+20. Copy a directory
+21. Move a directory
+22. Rename a file
+23. Combine & merge a directory
