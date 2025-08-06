@@ -1,0 +1,26 @@
+
+
+____________________Operating System (Linux)________________________
+
+Exercise_2:
+
+
+1. Display Current Directory
+2. Check Operating System Information
+3. Create a New Directory
+4. Navigate to the New Directory
+5. List Files in the Directory
+6. List All Files, Including Hidden Files
+7. Create a New File
+8. Add Content to the File
+9. Append Content to the File
+10. View the Content of the File
+11. Create Multiple Files
+12. Display a List of Files with a Specific Extension
+13. Create a Nested Directory Structure
+14. Move Between Directories
+15. Display System Kernel Information
+16. Display System Architecture
+17. Create a Hidden File
+18. Redirect Command Output to a New File
+19. Append System Information to a Log File
