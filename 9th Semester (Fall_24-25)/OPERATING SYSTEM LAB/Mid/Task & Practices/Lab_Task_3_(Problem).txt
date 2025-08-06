@@ -1,0 +1,27 @@
+
+
+____________________Operating System (Linux)________________________
+
+Lab_2:
+
+
+1. Create a new file named file1.txt using the touch command.
+2. Create a new directory named mydir.
+3. Create a file named output.txt containing the text "Hello, World!" using redirection. 
+4. Append "Appending a new line." to output.txt.
+5. Display the contents of output.txt.
+6. Print the current working directory.
+7. Create file2.txt with some text, then combine output.txt and file2.txt into combined.txt.
+8. View example.txt using the less command.
+9. Append the contents of file2.txt to output.txt.
+10. Display jtp.txt with line numbers.
+11. Create a hidden file named .hiddenfile.
+12. Sort the contents of output.txt
+13. Copy file1.txt to file1_backup.txt.
+14. Copy output.txt and file2.txt to the mydir directory.
+15. Move file2.txt to mydir.
+16. Delete file1_backup.txt.
+17. Remove the empty directory mydir.
+18. Remove a directory and all its contents named testdir.
+19. Delete output.txt and file2.txt.
+20. Create nested directories and then remove them recursively
