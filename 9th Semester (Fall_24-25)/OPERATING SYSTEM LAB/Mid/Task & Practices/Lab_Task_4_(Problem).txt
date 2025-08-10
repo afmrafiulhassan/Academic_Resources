@@ -1,0 +1,44 @@
+
+
+____________________Operating System (Linux)________________________
+
+
+
+1. Display the current directory
+2. List all files and directories in the current directory
+3. Create a new directory named "TestFolder"
+4. Change the current directory to "TestFolder"
+5. Create an empty file named "test.txt" in the current directory
+6. Rename the file "test.txt" to "example.txt"
+7. Copy "example.txt" to a new file named "copy_example.txt"
+8. Delete the file "copy_example.txt"
+9. Move "example.txt" to the parent directory
+10. Display the contents of "example.txt"
+11. Create a new file named "data.txt" and write "Hello, World!" into it
+12. Append the text "This is a test." to "data.txt"
+13. Display the date and time
+14. Create a directory named "Folder1" and a subdirectory inside it named "Subfolder"
+15. Delete the directory "Folder1" and its contents
+16. Display the IP configuration of the system
+17. Ping the website "www.google.com" to check connectivity
+18. Display the list of running processes
+19. Create a file named "numbers.txt" with the numbers 1 to 5 in random order
+20. Sort the contents of "numbers.txt" and display the sorted output
+21. Find lines containing the number "4" in "numbers.txt"
+22. Delete the file "numbers.txt"
+23. Display the current logged-in user
+24. Create a file named "data.txt" with the content "apple, banana, cherry"
+25. Sort the contents of "data.txt" and save the output to "sorted_data.txt"
+26. Find lines containing the word "banana" in "data.txt"
+27. Display the contents of "sorted_data.txt"
+28. Delete both "data.txt" and "sorted_data.txt"
+29. Create a directory named "Project", navigate into it, and create an empty file named "README.txt"
+30. Display the current date and time, and then list all files in the current directory
+31. Create a directory "TestDir", navigate into it, create a file "test.txt" with content "Hello", then display the file content
+32. List all files in the current directory, find and display only those containing "test" in their name
+33. List all files and directories and sort the output alphabetically
+34. Using cat to Concatenate Files
+35. Using head to Display the First 10 Lines
+36. Using tail to Display the Last 10 Lines
+37. Using cut to Extract Multiple Columns
+38. Using paste to Combine Files Horizontally (Combine filel.txt and file2.txt side by side.)
